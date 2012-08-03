@@ -130,13 +130,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-<<<<<<< HEAD
     'django_jenkins',
-=======
-    'django.contrib.admin',
-    'card',
-    'django_nose',
->>>>>>> 5e9a5867bf7add0c324897cfd24452904a552f9e
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
