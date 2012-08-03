@@ -2,4 +2,7 @@ cards.db
 *.pyc
 reports/
 nosetest*
+<<<<<<< HEAD
 build/
+=======
+>>>>>>> 5e9a5867bf7add0c324897cfd24452904a552f9e
